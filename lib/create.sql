@@ -1,2 +1,2 @@
 CREATE TABLE bears (
-)
+id )
